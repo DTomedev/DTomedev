@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Davi Tomé  
+# Davi Tomé  
 
 🚀**Estudante de Desenvolvimento de Sistemas (SENAI)**
 

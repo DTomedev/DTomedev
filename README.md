@@ -50,6 +50,6 @@ Atualmente focado em fortalecer minha base em programação, lógica e desenvolv
 - Desenvolvimento de APIs  
 
 ---
-#### 📩 Contato: dtomedev@gmail.com
+#### 📩 Contato: dtomedev08@gmail.com
 
 🤝 _Estou aberto a novas experiências, desafios e oportunidades de aprendizado que contribuam para meu crescimento na área._
